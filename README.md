@@ -11,19 +11,23 @@
 9. GOODHAND
 10. H2
 11. Fujitsu
-- Acer
-- MDT
-- TRICOM
-- philus
-- press on
-- risinatioe
-- SP!CRM
-- Admiral Markets
-- Rakso
-- itg
-- Fountainhead
-- RedFox
-- Teleperformance
+12. Acer
+13. MDT
+14. TRICOM
+15. philus
+16. press on
+17. risinatioe
+18. SP!CRM
+19. Admiral Markets
+20. Rakso
+21. itg
+22. Fountainhead
+23. RedFox
+24. Teleperformance
+25. Acer
+26. hype creations
+27. Trends and Technologies
+28. Nokia
 
 ### Non-accredited
 
@@ -62,3 +66,15 @@
 - Blast TV
 - Infineon
 - Asurion
+- CodeHappy
+- P&G Careers
+- Globe Telecom
+- Migo
+- Unilever
+- Facebook
+- HSBC
+- O Shopping
+- Zoho
+- Indeed
+- Nike
+- Bench
