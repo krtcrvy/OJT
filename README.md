@@ -33,50 +33,50 @@
 
 ### Non-accredited
 
-- IBM
-- PocketDevs
-- AWS
-- Microsoft
-- Google
-- Kollab
-- Kalibrr
-- Quantrics
-- SM
-- MachShip
-- Career Shepherd
-- WTW
-- Genpact
-- Agoda
-- Safe
-- Crossover
-- Titanium Technologies, Inc.
-- Eclaro
-- Hogarth
-- Zendesk
-- OpsWork
-- Packetworx
-- Enstack
-- DICT
-- Converge
-- PLDT
-- ClixLogic
-- Rak
-- Eastern Communications
-- Console Connect
-- Source
-- Semtech
-- Blast TV
-- Infineon
-- Asurion
-- CodeHappy
-- P&G Careers
-- Globe Telecom
-- Migo
-- Unilever
-- Facebook
-- HSBC
-- O Shopping
-- Zoho
-- Indeed
-- Nike
-- Bench
+1. IBM
+2. PocketDevs
+3. AWS
+4. Microsoft
+5. Google
+6. Kollab
+7. Kalibrr
+8. Quantrics
+9. SM
+10. MachShip
+11. Career Shepherd
+12. WTW
+13. Genpact
+14. Agoda
+15. Safe
+16. Crossover
+17. Titanium Technologies, Inc.
+18. Eclaro
+19. Hogarth
+20. Zendesk
+21. OpsWork
+22. Packetworx
+23. Enstack
+24. DICT
+25. Converge
+26. PLDT
+27. ClixLogic
+28. Rak
+29. Eastern Communications
+30. Console Connect
+31. Source
+32. Semtech
+33. Blast TV
+34. Infineon
+35. Asurion
+36. CodeHappy
+37. P&G Careers
+38. Globe Telecom
+39. Migo
+40. Unilever
+41. Facebook
+42. HSBC
+43. O Shopping
+44. Zoho
+45. Indeed
+46. Nike
+47. Bench
